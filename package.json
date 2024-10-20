@@ -1,5 +1,5 @@
 {
- "proxy": "https://back-production-1f50.up.railway.app",
+ "proxy": "https://imps-online.vercel.app",
   "name": "imps-frontend",
   "version": "0.1.0",
   "private": true,
